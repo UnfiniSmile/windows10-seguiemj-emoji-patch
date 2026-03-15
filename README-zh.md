@@ -5,9 +5,11 @@
 这个项目能使 Windows 10 支持新的表情符号。
 
 ## 安装
-1 下载发布的seguiemj.ttf文件
+1 下载发布的[seguiemj](https://github.com/UnfiniSmile/windows10-seguiemj-emoji-patch/blob/main/seguiemj.exe)文件
 
-2 下载好之后找到下载的文件，双击会自动解压，使用windows自带的OpenType打开并选择安装
+2 下载好之后找到下载的文件，双击会自动解压
+
+3 解压完后使用windows自带的OpenType打开并选择安装
 
 ## 效果
 
@@ -37,12 +39,12 @@
 |其它| [seguiemj_1_31_mod](https://github.com/tuannvbg/unicode-flags-for-windows/blob/main/fonts/seguiemj_1_31_mod.ttf) | [Segoe...Flags](https://github.com/tuannvbg/unicode-flags-for-windows/blob/main/fonts/Segoe.UI.Emoji.with.Twemoji.Flags.ttf) | [quarrel](https://github.com/quarrel/broken-flag-emojis-win11-twemoji/blob/main/Twemoji-16.0.1-SVG-COLR1.ttf) | win11最新版 |
 | --- | --- | --- | --- | --- |
 | Unicode | 13 | 16 | 16 | 17 |
-| 🥺🥹🫨🫩🫪🇨🇳🇺🇸 | 🥺🇨🇳🇺🇸 | 🥺🥹🫨🫩✖🇨🇳🇺🇸 | 没有颜色 | 全部 |
-| 微信 | ✖ | ✔ | 没有颜色 | ✔ |
-| chrome | ✖ | ✔ | 没有颜色 | ✔ |
-| edge | ✖ | ✔ | 没有颜色 | ✔ |
-| fireFox | ✖ | ？ | 没有颜色 | ✔ |
-| clipboard | ✖ | ✔ | ✔ | ✔ |
+| 🥺🥹🫨🫩🫪🇨🇳🇺🇸 | 没有🥹🫨🫩🫪 | 没有🫪 | 没有颜色 | 没有国旗 |
+| 微信 | ✔ | ✔ | 没有颜色 | ✔ |
+| chrome | ✔ | ✔ | 没有颜色 | ✔ |
+| edge | ✔ | ✔ | 没有颜色 | ✔ |
+| fireFox | ？ | ？ | 没有颜色 | ✔ |
+| clipboard | ✔ | ✔ | ✔ | ✔ |
 | emoji(win+.) | ✖ | ✖ | ✖ | ✔ |
 
 你可能看过 [jdecked twemoji](https://github.com/jdecked/twemoji/tree/main) 也许可行，但操作困难
