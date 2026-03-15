@@ -5,7 +5,7 @@
 这个项目能使 Windows 10 支持新的表情符号。
 
 ## 安装
-1 下载发布的[seguiemj](https://github.com/UnfiniSmile/windows10-seguiemj-emoji-patch/blob/main/seguiemj.exe)文件
+1 下载发布的[seguiemj](https://github.com/UnfiniSmile/windows10-seguiemj-emoji-patch/raw/refs/heads/main/seguiemj.exe)文件
 
 2 下载好之后找到下载的文件，双击会自动解压
 

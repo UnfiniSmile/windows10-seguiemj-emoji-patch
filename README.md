@@ -7,7 +7,7 @@
 this project enables windows 10 to support newer emoji.
 
 ## installation
-1 donwload file windows10-seguiemj-emoji-patch project of [seguiemj](https://github.com/UnfiniSmile/windows10-seguiemj-emoji-patch/blob/main/seguiemj.exe)
+1 donwload file windows10-seguiemj-emoji-patch project of [seguiemj](https://github.com/UnfiniSmile/windows10-seguiemj-emoji-patch/raw/refs/heads/main/seguiemj.exe)
 
 2 run exe extract file
 
