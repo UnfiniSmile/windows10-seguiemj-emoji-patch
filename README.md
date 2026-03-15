@@ -4,7 +4,7 @@
 
 ## brief
 
-this project enables Windows 10 to support newer emoji.
+this project enables windows 10 to support newer emoji.
 
 ## installation
 1 donwload file windows10-seguiemj-emoji-patch project of seguiemj.ttf
@@ -34,7 +34,6 @@ this project enables Windows 10 to support newer emoji.
     <img src=".picture/Annotation 2026-03-15 211803.png">
     <img src=".picture/Annotation 2026-03-15 205507.png">
 </p>
----
 
 
 |other| [seguiemj_1_31_mod](https://github.com/tuannvbg/unicode-flags-for-windows/blob/main/fonts/seguiemj_1_31_mod.ttf) | [Segoe...Flags](https://github.com/tuannvbg/unicode-flags-for-windows/blob/main/fonts/Segoe.UI.Emoji.with.Twemoji.Flags.ttf) | [quarrel](https://github.com/quarrel/broken-flag-emojis-win11-twemoji/blob/main/Twemoji-16.0.1-SVG-COLR1.ttf) | win11-Latest |

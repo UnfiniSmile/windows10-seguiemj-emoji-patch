@@ -32,7 +32,6 @@
     <img src=".picture/Annotation 2026-03-15 211803.png">
     <img src=".picture/Annotation 2026-03-15 205507.png">
 </p>
----
 
 
 |其它| [seguiemj_1_31_mod](https://github.com/tuannvbg/unicode-flags-for-windows/blob/main/fonts/seguiemj_1_31_mod.ttf) | [Segoe...Flags](https://github.com/tuannvbg/unicode-flags-for-windows/blob/main/fonts/Segoe.UI.Emoji.with.Twemoji.Flags.ttf) | [quarrel](https://github.com/quarrel/broken-flag-emojis-win11-twemoji/blob/main/Twemoji-16.0.1-SVG-COLR1.ttf) | win11最新版 |
