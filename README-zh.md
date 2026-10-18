@@ -17,7 +17,7 @@
 
 |支持情况| 默认 | 新的 |
 | --- | --- | ---|
-| 字符版本 | 13.0 | 17.0 |
+| 字符版本 | 13.0 | 18.0 |
 | 🥺🥹🫨🫩🫪🇨🇳🇺🇸 | 🥺 | 全部 |
 | 微信 | ✖ | ✔ |
 | chrome | ✖ | ✔ |
@@ -28,6 +28,9 @@
 
 ## 截图
 <p>
+    <img src=".picture/emoji_18.webp">
+    <img src=".picture/noto_18.webp">
+    <img src=".picture/twemoji_17.webp">
     <img src=".picture/Annotation 2026-03-15 204342.png">
     <img src=".picture/Annotation 2026-03-15 211708.png">
     <img src=".picture/Annotation 2026-03-15 211850.png">
