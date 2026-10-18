@@ -19,7 +19,7 @@ this project enables windows 10 to support newer emoji.
 
 |support| default | new |
 | --- | --- | ---|
-| Unicode | 13.0 | 17.0 |
+| Unicode | 13.0 | 18.0 |
 | 🥺🥹🫨🫩🫪🇨🇳🇺🇸 | 🥺 | all |
 | weixin | ✖ | ✔ |
 | chrome | ✖ | ✔ |
@@ -30,6 +30,9 @@ this project enables windows 10 to support newer emoji.
 
 ## Screenshot
 <p>
+    <img src=".picture/emoji_18.webp">
+    <img src=".picture/noto_18.webp">
+    <img src=".picture/twemoji_17.webp">
     <img src=".picture/Annotation 2026-03-15 204342.png">
     <img src=".picture/Annotation 2026-03-15 211708.png">
     <img src=".picture/Annotation 2026-03-15 211850.png">
